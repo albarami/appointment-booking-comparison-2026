@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://albarami.github.io/appointment-booking-comparison-2026/sitemap.xml

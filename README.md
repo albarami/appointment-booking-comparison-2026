@@ -21,6 +21,18 @@ Keywords (discoverability): appointment booking software, salon scheduling, clin
 
 Hosting is **GitHub Pages on a public repository** — **$0**. No custom domain. No ads. No paid analytics.
 
+## Measurement (honesty)
+
+- GitHub Pages CDN HTML landings: **telemetry unavailable** (no owner access logs; no first-party analytics embedded yet).
+- GitHub repo Insights Traffic API: available (14-day rolling views/clones/referrers).
+- Do **not** invent pageview zeros.
+- Vendor links use `data-link-slot` attrs; tracked affiliate hrefs are **pending Principal enrollment**.
+
+## SEO helpers
+
+- `sitemap.xml`, `robots.txt`
+- Canonical + Open Graph meta on HTML pages
+
 ## Source of truth
 
 Canonical copies also live in a private research repo under `docs/public/digital-sales/`. This public repo exists only so anonymous readers can open the guides without repo access or a paid GitHub plan. The private repo is **not** made public.
