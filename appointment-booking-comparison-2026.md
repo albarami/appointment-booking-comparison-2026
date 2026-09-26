@@ -199,7 +199,7 @@ Often not. Many vendors include email reminders on base plans and charge SMS/Wha
 
 ### Is a free tier enough to run a busy salon?
 
-Free tiers are good for a same-week trial. They often cap staff seats, remove branding, or limit SMS — painful once you have a full book. Trial two tools with a fake client the same week, then pick what your front desk can run on a busy day.
+Free tiers are good for a same-week trial. They often cap staff seats, may retain vendor branding, or limit SMS — painful once you have a full book. Trial two tools with a fake client the same week, then pick what your front desk can run on a busy day.
 
 ### How hard is it to switch later?
 
