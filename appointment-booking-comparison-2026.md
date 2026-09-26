@@ -1,4 +1,4 @@
-# Appointment booking software for clinics & salons: how to choose (2026)
+# Appointment booking software for salons & clinics: 2026 comparison guide
 
 **asset_id:** `asset.appointment_booking.comparison_guide.v1`
 **asset_type:** `comparison_guide`
@@ -107,6 +107,10 @@ Product links are plain public pages (not affiliate-tracked).
 
 ---
 
+## Sibling asset (M3)
+
+Narrow offer-subset for 2–10 staff salons/clinics: [salon-clinic-multi-staff-shortlist-2026.md](salon-clinic-multi-staff-shortlist-2026.md) (also on public Pages).
+
 ## Scenario briefs
 
 ### 1) Solo consultant / coach
@@ -166,6 +170,8 @@ Lock-in is usually process lock-in (staff habits), not file formats — plan the
 
 ## Outbound / measurement notes (organic M2)
 
+- GoatCounter channel status: `collector_present`; use observed collector data only, and leave unavailable counts unknown (never invent zeroes).
+
 - Channel class: **owned content** (in-repo public path) + optional community answers linking here with UTM.
 - Internal click ids and landings are logged offline under `var/digital_sales/` (gitignored raw) with summaries in experiment docs.
 - `cost_usd` for traffic remains **0** until Principal-approved paid policy.
@@ -174,6 +180,34 @@ Lock-in is usually process lock-in (staff habits), not file formats — plan the
 Suggested UTM when sharing: `utm_source=community&utm_medium=organic&utm_campaign=ds_m2_appt_booking_v1`
 
 ---
+
+## FAQ: real buyer questions (jobs to be done)
+
+Short answers for owners comparing booking tools — not a review farm, not sponsored rankings.
+
+### Do I need multi-staff booking software or a simple calendar link?
+
+If one person takes all appointments, a calendar-link tool (solo scheduling) is often enough. If **2–10 staff** share a front desk, you need multi-provider calendars, staff seats, and usually SMS/WhatsApp reminders — see the [salon & clinic multi-staff shortlist](salon-clinic-multi-staff-shortlist-2026.md).
+
+### Should a salon or clinic require deposits?
+
+If no-shows cost real chair time, deposits (or prepaid) matter more than a prettier booking page. Prefer tools that document deposits or payments clearly; cells marked *not verified* mean re-check on the vendor site before you buy.
+
+### Will SMS reminders be included in the monthly price?
+
+Often not. Many vendors include email reminders on base plans and charge SMS/WhatsApp credits or a gateway separately. Budget reminders as a line item, not a free checkbox.
+
+### Is a free tier enough to run a busy salon?
+
+Free tiers are good for a same-week trial. They often cap staff seats, remove branding, or limit SMS — painful once you have a full book. Trial two tools with a fake client the same week, then pick what your front desk can run on a busy day.
+
+### How hard is it to switch later?
+
+Lock-in is usually staff habits and client re-booking, not file formats. Prefer tools with CSV/API export claims you can verify in admin before migrate. Plan a weekend cutover, not a surprise Monday.
+
+### Are these independent reviews or rankings?
+
+No. This is a dated criteria comparison with affiliate disclosure. We do not invent star ratings, fake testimonials, or "#1" badges. Commissions are not a scoring criterion; product links stay vendor public pages until Principal enrollment.
 
 ## Changelog
 

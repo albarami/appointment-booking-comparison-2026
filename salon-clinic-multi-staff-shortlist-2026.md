@@ -1,4 +1,4 @@
-# Salon & clinic multi-staff booking shortlist (2026)
+# Multi-staff salon & clinic booking software shortlist (2026)
 
 **asset_id:** `asset.appointment_booking.salon_clinic_multistaff_shortlist.v1`
 **asset_type:** `scenario_brief`
@@ -112,11 +112,31 @@ Suggested UTM when sharing: `utm_source=community&utm_medium=organic&utm_campaig
 
 ## Outbound / measurement notes
 
+- GoatCounter channel status: `collector_present`; use observed collector data only, and leave unavailable counts unknown (never invent zeroes).
+
 - Channel class: **owned content** (in-repo + public GitHub Pages mirror)
 - `cost_usd` for traffic remains **0** until Principal-approved paid policy
 - Qualified outbound clicks = visits from this asset to the vendor product URLs above
 
 ---
+
+## FAQ: multi-staff salon & clinic booking
+
+### Why only three tools here?
+
+This page is a **narrow shortlist** for 2–10 staff salons/clinics — not a full market census. The [full comparison guide](appointment-booking-comparison-2026.md) covers more tools (including solo and suite options). We keep this list short so you can trial two options in one afternoon.
+
+### What if I already use WordPress?
+
+Start with Simply Schedule Appointments on a *staging* site first. Confirm team scheduling, Twilio SMS (if you need it), and payment settings before touching production.
+
+### Deposits vs POS — which matters first?
+
+If your pain is no-shows, prioritize deposits/SMS (SimplyBook.me is the usual first trial). If you also need inventory/POS in one workspace, trial FastBook and verify card/SMS for your country.
+
+### Is this a paid ranking?
+
+No. Affiliate relationships are disclosed; commissions are not a scoring criterion. Links are vendor public product pages (tracked affiliate IDs not published yet).
 
 ## Changelog
 
