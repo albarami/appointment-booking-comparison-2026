@@ -23,9 +23,10 @@ Hosting is **GitHub Pages on a public repository** — **$0**. No custom domain.
 
 ## Measurement (honesty)
 
-- GitHub Pages CDN HTML landings: **telemetry unavailable** (no owner access logs; no first-party analytics embedded yet).
+- GoatCounter channel: **`collector_present`** on both HTML assets; use observed collector data when retrieved.
+- GitHub Pages CDN HTML landings: owner access logs remain unavailable.
 - GitHub repo Insights Traffic API: available (14-day rolling views/clones/referrers).
-- Do **not** invent pageview zeros.
+- Leave unavailable counts unknown; do **not** invent pageview zeros.
 - Vendor links use `data-link-slot` attrs; tracked affiliate hrefs are **pending Principal enrollment**.
 
 ## SEO helpers
