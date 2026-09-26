@@ -20,11 +20,11 @@
 
 ## Affiliate disclosure (read this first)
 
-This guide is published by the **Digital-Sales / Affiliate** commercial mission inside the Autonomous portfolio. We may earn a commission if you later buy a tool through an enrolled affiliate or referral program. **Commissions never change the criteria we use below** — payout is explicitly *not* a scoring dimension.
+This guide is published by the **Digital-Sales / Affiliate** commercial mission inside the Autonomous portfolio. We may earn a commission if you buy through our enrolled referral links. **Commissions never change the criteria we use below** — payout is explicitly *not* a scoring dimension.
 
-Outbound links below are **plain vendor public product/pricing pages** (no tracked affiliate IDs yet). Live affiliate IDs are enrolled only on **$0 signup** programs when Owner schedules that step. Until then we disclose intent and measure landings/outbound clicks with our own offline logs.
+**Appointlet** product CTAs use a Principal-supplied Tapfiliate tracked affiliate URL. Other product links remain **plain vendor public product/pricing pages** where enrollment is still pending (SimplyBook awaiting vendor approval; others deferred). We measure landings/outbound clicks with GoatCounter named events plus offline logs.
 
-We do **not** run paid ads for this asset in M2.
+We do **not** run paid ads for this asset unless a later Principal-approved paid phase says otherwise.
 
 ---
 
@@ -61,11 +61,11 @@ Vendor pricing and features below are **vendor claims** as observed on public pa
 
 ## Side-by-side: user-relevant criteria (eligible tools)
 
-Product links are plain public pages (not affiliate-tracked).
+Appointlet product CTAs use a Principal-supplied tracked affiliate URL; other product links remain plain public pages (not affiliate-tracked yet).
 
 | Tool | Product page | Price band / free tier (claim) | Staff / seats (claim) | Reminders (claim) | Payments / deposits (claim) | Key integrations (claim) | Data export (claim) | Support (claim) |
 |---|---|---|---|---|---|---|---|---|
-| **Appointlet** | [appointlet.com](https://www.appointlet.com/) · [features](https://www.appointlet.com/features) | Free trial → paid; EDU/nonprofit discount noted on affiliate page | Team / round-robin / co-hosted; unlimited members claimed on teams marketing | Email native; SMS via Zapier/Twilio (not native SMS) | Stripe / PayPal collect at booking (claim) | Google / Microsoft calendars; Zapier | Admin CSV export of bookings (teams marketing claim) | Help center / product docs |
+| **Appointlet** | [appointlet.com](https://www.appointlet.com?tap_a=3391-c9deb2&tap_s=10482865-f71270) · [features](https://www.appointlet.com/features) | Free trial → paid; EDU/nonprofit discount noted on affiliate page | Team / round-robin / co-hosted; unlimited members claimed on teams marketing | Email native; SMS via Zapier/Twilio (not native SMS) | Stripe / PayPal collect at booking (claim) | Google / Microsoft calendars; Zapier | Admin CSV export of bookings (teams marketing claim) | Help center / product docs |
 | **SimplyBook.me** | [simplybook.me](https://simplybook.me/en/) | Free limited tier + paid upgrades; SMS credits often extra | Multi-provider calendars; plan-based staff caps (check current plan table) | Email + SMS + WhatsApp reminders claimed; SMS may need credits/gateway | Stripe / PayPal / others; **Accept deposits** custom feature documented | Google Calendar; widgets; POS options | not verified (confirm in admin before migrate) | Help wiki + support channels on site |
 | **FastBook** | [fastbookapp.com](https://fastbookapp.com/) · [pricing](https://fastbookapp.com/pricing) | Public Complete ~$19/mo per location; 14-day trial claimed | Up to **10 staff** / one location on Complete (pricing page claim) | Manual WhatsApp tools included; WhatsApp Automation add-on; SMS listed as separate usage cost | Records cash/terminal/wallet; **online card processing optional/external** where supported | Booking + POS + CRM + inventory in one workspace (marketing claim) | Data export listed on pricing page | Basic support on Complete (pricing claim) |
 | **Cal.com** | [cal.com](https://cal.com/) · [pricing](https://cal.com/pricing) | Free plan (usage limits claimed none for core); Teams/Org paid | Free solo; Teams shared availability / round-robin | Email + SMS via workflows on paid plans (pricing/workflows pages) | Stripe / PayPal upfront payment apps | Google/Outlook calendars; Zoom/Meet; 100+ integrations claimed; open-source option | Insights/CSV and API export paths claimed | Docs + community; plan-tier support |
@@ -175,7 +175,7 @@ Lock-in is usually process lock-in (staff habits), not file formats — plan the
 - Channel class: **owned content** (in-repo public path) + optional community answers linking here with UTM.
 - Internal click ids and landings are logged offline under `var/digital_sales/` (gitignored raw) with summaries in experiment docs.
 - `cost_usd` for traffic remains **0** until Principal-approved paid policy.
-- Qualified outbound clicks = visits from this asset to the vendor product URLs above (disclosed; not yet affiliate-tagged).
+- Qualified outbound clicks = visits from this asset to the vendor product URLs above (disclosed; Appointlet CTAs are affiliate-tracked; others not yet affiliate-tagged).
 
 Suggested UTM when sharing: `utm_source=community&utm_medium=organic&utm_campaign=ds_m2_appt_booking_v1`
 
@@ -207,7 +207,7 @@ Lock-in is usually staff habits and client re-booking, not file formats. Prefer 
 
 ### Are these independent reviews or rankings?
 
-No. This is a dated criteria comparison with affiliate disclosure. We do not invent star ratings, fake testimonials, or "#1" badges. Commissions are not a scoring criterion; product links stay vendor public pages until Principal enrollment.
+No. This is a dated criteria comparison with affiliate disclosure. We do not invent star ratings, fake testimonials, or "#1" badges. Commissions are not a scoring criterion; Appointlet product CTAs use a Principal-supplied tracked affiliate URL; other product links remain vendor public pages until enrollment.
 
 ## Changelog
 
