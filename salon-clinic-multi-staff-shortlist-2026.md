@@ -25,7 +25,7 @@
 
 This shortlist is published by the **Digital-Sales / Affiliate** commercial mission inside the Autonomous portfolio. We may earn a commission if you later buy a tool through an enrolled affiliate or referral program. **Commissions never change the criteria we use below** — payout is explicitly *not* a scoring dimension.
 
-Outbound links below are **plain vendor public product/pricing pages** (no tracked affiliate IDs yet). Live affiliate IDs are enrolled only on **$0 signup** programs when Owner schedules that step.
+**SimplyBook.me** product CTAs use a Principal-supplied iDevAffiliate tracked affiliate URL. FastBook and Simply Schedule Appointments product links remain **plain vendor public product/pricing pages** (enrollment still deferred). Tracked IDs are used only on **$0 signup** enrolled programs.
 
 We do **not** run paid ads for this asset in M3.
 
@@ -60,11 +60,11 @@ Vendor pricing and features below are **vendor claims** as observed on public pa
 
 ## Shortlist table (eligible offer subset)
 
-Product links are plain public pages (not affiliate-tracked).
+SimplyBook.me product links are affiliate-tracked (Principal-supplied). FastBook and SSA product links remain plain public pages.
 
 | Tool | Product page | Multi-staff (claim) | Reminders (claim) | Payments / deposits (claim) | Price band (claim) | Best-fit note |
 |---|---|---|---|---|---|---|
-| **SimplyBook.me** | [simplybook.me](https://simplybook.me/en/) | Multi-provider calendars; plan-based staff caps | Email + SMS + WhatsApp; SMS often needs credits | Stripe / PayPal / others; **Accept deposits** custom feature documented | Free limited + paid upgrades | Broad salon/clinic booking without forcing POS |
+| **SimplyBook.me** | [simplybook.me](https://affiliate.simplybook.me/idevaffiliate.php?id=9981) | Multi-provider calendars; plan-based staff caps | Email + SMS + WhatsApp; SMS often needs credits | Stripe / PayPal / others; **Accept deposits** custom feature documented | Free limited + paid upgrades | Broad salon/clinic booking without forcing POS |
 | **FastBook** | [fastbookapp.com](https://fastbookapp.com/) · [pricing](https://fastbookapp.com/pricing) | Up to **10 staff** / one location on Complete | Manual WhatsApp tools; WhatsApp Automation add-on; SMS separate usage | Records cash/terminal/wallet; **online card processing optional/external** where supported | Complete ~$19/mo per location; 14-day trial claimed | Strong when you want booking + POS + CRM narrative in one workspace |
 | **Simply Schedule Appointments** | [simplyscheduleappointments.com](https://simplyscheduleappointments.com/) | Team scheduling on Business (user-choice / round-robin / all) | Email; **Twilio SMS** on Pro/Business | Stripe / PayPal on Pro/Business; deposits **not verified** | Free plugin + Plus/Pro/Business annual licenses | Only if you **already** run WordPress and want data in your own DB |
 
@@ -136,7 +136,7 @@ If your pain is no-shows, prioritize deposits/SMS (SimplyBook.me is the usual fi
 
 ### Is this a paid ranking?
 
-No. Affiliate relationships are disclosed; commissions are not a scoring criterion. Links are vendor public product pages (tracked affiliate IDs not published yet).
+No. Affiliate relationships are disclosed; commissions are not a scoring criterion. SimplyBook.me links are Principal-supplied tracked affiliate URLs; FastBook and SSA links are vendor public product pages.
 
 ## Changelog
 

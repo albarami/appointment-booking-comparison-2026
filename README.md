@@ -27,7 +27,7 @@ Hosting is **GitHub Pages on a public repository** — **$0**. No custom domain.
 - GitHub Pages CDN HTML landings: owner access logs remain unavailable.
 - GitHub repo Insights Traffic API: available (14-day rolling views/clones/referrers).
 - Leave unavailable counts unknown; do **not** invent pageview zeros.
-- Vendor links use `data-link-slot` attrs; tracked affiliate hrefs are **pending Principal enrollment**.
+- Vendor links use `data-link-slot` attrs; **Appointlet** and **SimplyBook.me** hrefs are Principal-supplied affiliate_tracked; FastBook/Cal.com/SSA/Zoho remain vendor public (deferred).
 
 ## SEO helpers
 

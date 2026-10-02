@@ -22,7 +22,7 @@
 
 This guide is published by the **Digital-Sales / Affiliate** commercial mission inside the Autonomous portfolio. We may earn a commission if you buy through our enrolled referral links. **Commissions never change the criteria we use below** — payout is explicitly *not* a scoring dimension.
 
-**Appointlet** product CTAs use a Principal-supplied Tapfiliate tracked affiliate URL. Other product links remain **plain vendor public product/pricing pages** where enrollment is still pending (SimplyBook awaiting vendor approval; others deferred). We measure landings/outbound clicks with GoatCounter named events plus offline logs.
+**Appointlet** product CTAs use a Principal-supplied Tapfiliate tracked affiliate URL. **SimplyBook.me** product CTAs use a Principal-supplied iDevAffiliate tracked affiliate URL. Other product links remain **plain vendor public product/pricing pages** where enrollment is still deferred (FastBook, Cal.com, SSA, Zoho Bookings). We measure landings/outbound clicks with GoatCounter named events plus offline logs.
 
 We do **not** run paid ads for this asset unless a later Principal-approved paid phase says otherwise.
 
@@ -61,12 +61,12 @@ Vendor pricing and features below are **vendor claims** as observed on public pa
 
 ## Side-by-side: user-relevant criteria (eligible tools)
 
-Appointlet product CTAs use a Principal-supplied tracked affiliate URL; other product links remain plain public pages (not affiliate-tracked yet).
+Appointlet and SimplyBook.me product CTAs use Principal-supplied tracked affiliate URLs; FastBook, Cal.com, SSA, and Zoho Bookings product links remain plain public pages (enrollment deferred).
 
 | Tool | Product page | Price band / free tier (claim) | Staff / seats (claim) | Reminders (claim) | Payments / deposits (claim) | Key integrations (claim) | Data export (claim) | Support (claim) |
 |---|---|---|---|---|---|---|---|---|
 | **Appointlet** | [appointlet.com](https://www.appointlet.com?tap_a=3391-c9deb2&tap_s=10482865-f71270) · [features](https://www.appointlet.com/features) | Free trial → paid; EDU/nonprofit discount noted on affiliate page | Team / round-robin / co-hosted; unlimited members claimed on teams marketing | Email native; SMS via Zapier/Twilio (not native SMS) | Stripe / PayPal collect at booking (claim) | Google / Microsoft calendars; Zapier | Admin CSV export of bookings (teams marketing claim) | Help center / product docs |
-| **SimplyBook.me** | [simplybook.me](https://simplybook.me/en/) | Free limited tier + paid upgrades; SMS credits often extra | Multi-provider calendars; plan-based staff caps (check current plan table) | Email + SMS + WhatsApp reminders claimed; SMS may need credits/gateway | Stripe / PayPal / others; **Accept deposits** custom feature documented | Google Calendar; widgets; POS options | not verified (confirm in admin before migrate) | Help wiki + support channels on site |
+| **SimplyBook.me** | [simplybook.me](https://affiliate.simplybook.me/idevaffiliate.php?id=9981) | Free limited tier + paid upgrades; SMS credits often extra | Multi-provider calendars; plan-based staff caps (check current plan table) | Email + SMS + WhatsApp reminders claimed; SMS may need credits/gateway | Stripe / PayPal / others; **Accept deposits** custom feature documented | Google Calendar; widgets; POS options | not verified (confirm in admin before migrate) | Help wiki + support channels on site |
 | **FastBook** | [fastbookapp.com](https://fastbookapp.com/) · [pricing](https://fastbookapp.com/pricing) | Public Complete ~$19/mo per location; 14-day trial claimed | Up to **10 staff** / one location on Complete (pricing page claim) | Manual WhatsApp tools included; WhatsApp Automation add-on; SMS listed as separate usage cost | Records cash/terminal/wallet; **online card processing optional/external** where supported | Booking + POS + CRM + inventory in one workspace (marketing claim) | Data export listed on pricing page | Basic support on Complete (pricing claim) |
 | **Cal.com** | [cal.com](https://cal.com/) · [pricing](https://cal.com/pricing) | Free plan (usage limits claimed none for core); Teams/Org paid | Free solo; Teams shared availability / round-robin | Email + SMS via workflows on paid plans (pricing/workflows pages) | Stripe / PayPal upfront payment apps | Google/Outlook calendars; Zoom/Meet; 100+ integrations claimed; open-source option | Insights/CSV and API export paths claimed | Docs + community; plan-tier support |
 | **Simply Schedule Appointments** | [simplyscheduleappointments.com](https://simplyscheduleappointments.com/) · [WP plugin](https://wordpress.org/plugins/simply-schedule-appointments/) | Free plugin tier; Plus/Pro/Business annual licenses (affiliate page listed ~$99 / $199 / $399 historically) | Team scheduling on Business (user-choice / round-robin / all) | Email; **Twilio SMS** on Pro/Business | Stripe / PayPal on Pro/Business; full payment required/optional — **deposits not verified** | Google Calendar; Zoom; Gravity Forms; webhooks | Data lives in your WordPress DB (own-your-data claim) | Premium support on paid editions |
@@ -175,7 +175,7 @@ Lock-in is usually process lock-in (staff habits), not file formats — plan the
 - Channel class: **owned content** (in-repo public path) + optional community answers linking here with UTM.
 - Internal click ids and landings are logged offline under `var/digital_sales/` (gitignored raw) with summaries in experiment docs.
 - `cost_usd` for traffic remains **0** until Principal-approved paid policy.
-- Qualified outbound clicks = visits from this asset to the vendor product URLs above (disclosed; Appointlet CTAs are affiliate-tracked; others not yet affiliate-tagged).
+- Qualified outbound clicks = visits from this asset to the vendor product URLs above (disclosed; Appointlet and SimplyBook.me CTAs are affiliate-tracked; FastBook/Cal.com/SSA/Zoho remain vendor public / not affiliate-tagged yet).
 
 Suggested UTM when sharing: `utm_source=community&utm_medium=organic&utm_campaign=ds_m2_appt_booking_v1`
 
@@ -207,12 +207,13 @@ Lock-in is usually staff habits and client re-booking, not file formats. Prefer 
 
 ### Are these independent reviews or rankings?
 
-No. This is a dated criteria comparison with affiliate disclosure. We do not invent star ratings, fake testimonials, or "#1" badges. Commissions are not a scoring criterion; Appointlet product CTAs use a Principal-supplied tracked affiliate URL; other product links remain vendor public pages until enrollment.
+No. This is a dated criteria comparison with affiliate disclosure. We do not invent star ratings, fake testimonials, or "#1" badges. Commissions are not a scoring criterion; Appointlet and SimplyBook.me product CTAs use Principal-supplied tracked affiliate URLs; FastBook/Cal.com/SSA/Zoho product links remain vendor public pages (enrollment deferred).
 
 ## Changelog
 
 | Date (UTC) | Change |
 |---|---|
+| 2026-10-02 | r2: SimplyBook.me CTA now Principal-supplied tracked URL; FAQ + outbound note disclose Appointlet and SimplyBook.me tracked; FastBook/Cal.com/SSA/Zoho remain vendor public (enrollment deferred) |
 | 2026-09-26 | v1 published from M1 outline; six eligible rows; disclosure + criteria table; HTML mirror |
 | 2026-09-26 | r1 fix: per-tool user-criteria matrix; plain vendor product URLs; program table separated |
 
